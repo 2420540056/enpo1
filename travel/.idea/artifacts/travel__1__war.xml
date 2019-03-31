@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="travel (1):war">
-    <output-path>G:/changyong/就业班/JS/day28_综合案例4/travel/target</output-path>
-    <root id="archive" name="travel-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="travel (1):war exploded" />
-    </root>
-  </artifact>
-</component>
